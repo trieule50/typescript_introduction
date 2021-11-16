@@ -47,3 +47,9 @@ TypeScript can catch bugs when we make mistakes in our code. That’s great, but
 
 `npm install -g typescript`
 
+## Everyday Types
+
+Cover some of the most common types of values you’ll find in JavaScript code, and explain the corresponding ways to describe those types in TypeScript.
+
+### The primitives: `string`, `number`, and `boolean`
+
